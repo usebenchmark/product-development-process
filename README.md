@@ -1,3 +1,4 @@
+UPdate
 ## Sprints/Milestones
 We have weekly sprints and therefore weekly milestones. Every monday, we have a sprint meeting, where we plan and discuss the next weeks sprint. A sprint, starts after the sprint planning meeting and ends before the next sprint planning meeting. So this means sprints go from Monday to Monday. 
 
